@@ -430,7 +430,7 @@
 				DEVELOPMENT_TEAM = JU25EWQPKG;
 				INFOPLIST_FILE = FBAccount/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.rodrigosanchez.FBAccount;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rodrigosanchez;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -445,7 +445,7 @@
 				DEVELOPMENT_TEAM = JU25EWQPKG;
 				INFOPLIST_FILE = FBAccount/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.rodrigosanchez.FBAccount;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rodrigosanchez;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
